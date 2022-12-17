@@ -2,7 +2,7 @@
 
 Este sistema mede a distancia das coisas
 
-![WhatsApp Image 2022-12-17 at 14 24 04](https://user-images.githubusercontent.com/93664169/208254627-efc50099-452f-4468-9c52-a18b0fbd6df9.jpeg)
+![image](https://user-images.githubusercontent.com/93664169/208255381-f321aa80-5343-432c-837c-d5758e029e70.png)
 
 
 # MyBudget
